@@ -79,12 +79,10 @@ tree
 └───software
         linuxamd64_12102_database_1of2.zip
         linuxamd64_12102_database_2of2.zip
-        postgresql-10.6-1-linux-x64.run
         put_software_here.txt
         SharePlex-9.2.0-b42-oracle120-rh-40-amd64-m64.tpm
         shareplex_customer_name.txt
         shareplex_licence_key.txt
-        SPX-9.2.0-b42-oracle110-rh-40-amd64-m64.tpm
 
 
 ```
