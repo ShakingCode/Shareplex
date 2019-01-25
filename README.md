@@ -21,7 +21,7 @@ Download and install the following software.
 Pick an area on your file system to act as the base for this git repository and issue the following command. If you are working on Windows remember to check your Git settings for line terminators. If the bash scripts are converted to Windows terminators you will have problems.
 
 ```
-git clone https://github.com/oraclebase/vagrant.git
+git clone https://github.com/SergioRomera/shareplex_poc.git
 ```
 
 Copy the software under the "shareplex/software" directory. From the "shareplex" subdirectory, the structure should look like this.
