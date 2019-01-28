@@ -141,4 +141,4 @@ vagrant destroy -f
 
 ##Shareplex configuration
 
-![](file:/shareplex_configuration.png)
+![](shareplex_configuration.png)
