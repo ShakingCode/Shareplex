@@ -140,5 +140,12 @@ vagrant destroy -f
 ```
 
 ## Shareplex configuration
+User test is replicated. Here the shareplex configuration:
 
+```
+datasource:o.pdb1
+#source tables      target tables           routing map
+expand test.%       test.%                  ol7-121-splex2@o.pdb1
+
+```
 ![](shareplex_configuration.png)
