@@ -138,3 +138,6 @@ vagrant destroy -f
 cd ../node1
 vagrant destroy -f
 ```
+
+#Shareplex configuration
+![](file:./shareplex_configuration.png)
